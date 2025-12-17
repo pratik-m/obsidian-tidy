@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-tidy-plugin",
+    "name": "Tidy",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Tidies the list formatting copied from LLM outputs",
+    "author": "Pratik Munot",
+    "authorUrl": "https://github.com/pratik-m",
+    "isDesktopOnly": false
+}

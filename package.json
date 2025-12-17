@@ -1,0 +1,21 @@
+{
+  "name": "tidy",
+  "version": "1.0.0",
+  "description": "Tidies the list formatting copied from LLM outputs",
+  "author": "Your Name",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "obsidian": "latest"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
