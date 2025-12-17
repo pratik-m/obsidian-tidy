@@ -2,7 +2,7 @@
   "name": "tidy",
   "version": "1.0.0",
   "description": "Tidies the list formatting copied from LLM outputs",
-  "author": "Your Name",
+  "author": "Pratik Munot",
   "license": "MIT",
   "main": "main.js",
   "scripts": {
