@@ -1,5 +1,5 @@
 
-import { App, Editor, MarkdownView, Plugin, PluginSettingTab, Setting } from 'obsidian';
+import { App, Editor, Plugin, PluginSettingTab, Setting } from 'obsidian';
 
 interface ListPasteFixerSettings {
 	autoFixOnPaste: boolean;
